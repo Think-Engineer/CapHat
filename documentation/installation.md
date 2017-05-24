@@ -69,7 +69,7 @@ That's it, the MPR121 library is now installed!  Continue on to learn how to run
 Once you have completed all the previous sections you will now be ready to run your first CapHat Demo!
 
 Plug the CapHat in to the Raspberry Pi as shown in the following image
-![alt text](ConnectionGuide.png  "CapHat Connection")
+![alt text](ConnectionGuide.jpg  "CapHat Connection")
 
 Run the following commands to navigate to the Demos Folder
 
