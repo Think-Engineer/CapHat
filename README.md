@@ -4,6 +4,8 @@ All the software, hardware and examples for building apps with the CapHat capaci
 
 Check out our successful [Kickstarter](https://www.kickstarter.com/projects/364371217/caphat-a-raspberry-pi-capacitive-keypad-hat-access/description) for more details on what it does.
 
+![CapHat](https://ksr-ugc.imgix.net/assets/012/378/441/cdcc8941b4a710f5392ad0d75c68adb4_original.JPG?w=1552&h=873&fit=fill&bg=FFFFFF&v=1463757911&auto=format&q=92&s=4f1617fe8a00257dd514c22a3865e891:tiny)
+
 ## Installation
 We've attempted to capture everything you need to do in order to get your CapHat up and running with our example demo. You can follow the installation guide [here](documentation/installation.md)
 
